@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://ekals78@naver.com
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: Blog
+  url: https://blog.naver.com/minstory98
+  icon: fab fa-blogger-b
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/gsw04071
   icon: fab fa-github
