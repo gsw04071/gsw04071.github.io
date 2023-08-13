@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: gsw04071
+  username: vszhub
   card: summary
 logo: logo.png
 social:
   name: Damin An
   links:
-    - https://blog.naver.com/minstory98
-    - https://github.com/gsw04071
+    - https://twitter.com/vszhub
+    - https://github.com/vszhub
 google_site_verification: xxxxx
 lang: ko
 
