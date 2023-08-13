@@ -1,7 +1,7 @@
 # Setup
-title: 민스토리의 개발이야기
-description: 소소한 기록을 담은 블로그 입니다 : )
-url: https://gsw04071.github.io/
+title: Damin Blog
+description: web Developer Repository
+url: https://gsw04071.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,16 +29,16 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: gsw04071
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Damin An
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://blog.naver.com/minstory98
+    - https://github.com/gsw04071
 google_site_verification: xxxxx
-lang: en
+lang: ko
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Damin An
+  url: https://github.com/gsw04071/
+  email: ekals78@naver.com
